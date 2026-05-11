@@ -1,5 +1,5 @@
 <p align="right">
-  <strong>EN</strong> | <a href="./README-es.md">ES</a>
+  <a href="./README.md">EN</a> | <strong>ES</strong>
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Hello,+I'm+Emanuel+Monzón;Systems+Engineering+Student;Full-Stack+Architect;Transforming+ideas+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Hola,+soy+Emanuel+Monzón;Estudiante+de+Ingeniería+en+Sistemas;Arquitecto+Full-Stack;Transformando+ideas+en+código" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,12 +29,12 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="55%" valign="top" style="border: none;">
-      <h3 style="color: #6366f1;">About Me</h3>
+      <h3 style="color: #6366f1;">Sobre Mí</h3>
       <ul style="list-style-type: none;">
-        <li>❖ <b>Systems Engineering Student</b> with a strong focus on modern web architectures and clean code.</li>
-        <li>❖ Currently mastering <b>High-Performance UI/UX & Scalable Backends</b>.</li>
-        <li>❖ <i>"Clean code, beautiful UI, seamless experience."</i></li>
-        <li>❖ Reach out for <b>collaboration, freelance, or open-source projects</b>.</li>
+        <li>❖ <b>Estudiante de Ingeniería en Sistemas</b> con un fuerte enfoque en arquitecturas web modernas y código limpio.</li>
+        <li>❖ Actualmente dominando <b>UI/UX de alto rendimiento y Backends escalables</b>.</li>
+        <li>❖ <i>"Código limpio, UI hermosa, experiencia fluida."</i></li>
+        <li>❖ Contáctame para <b>colaboraciones, trabajo freelance o proyectos open-source</b>.</li>
       </ul>
     </td>
     <td width="45%" align="center" style="border: none;">
@@ -47,7 +47,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 <br/>
 
-<h3 align="center" style="color: #6366f1;">Technical Arsenal</h3>
+<h3 align="center" style="color: #6366f1;">Arsenal Técnico</h3>
 
 <div align="center">
   <p align="center" style="color: #a9b1d6; font-weight: bold;">Frontend & UI</p>
@@ -55,12 +55,12 @@
   
   <br/><br/>
   
-  <p align="center" style="color: #a9b1d6; font-weight: bold;">Backend & Databases</p>
+  <p align="center" style="color: #a9b1d6; font-weight: bold;">Backend & Bases de Datos</p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,c,cs,go,django,flask,mongodb&theme=dark&perline=9" />
   
   <br/><br/>
 
-  <p align="center" style="color: #a9b1d6; font-weight: bold;">Mobile, Cloud & Tools</p>
+  <p align="center" style="color: #a9b1d6; font-weight: bold;">Móvil, Cloud & Herramientas</p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,aws,linux,git,github,grafana&theme=dark&perline=7" />
 </div>
 
@@ -68,7 +68,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 <br/>
 
-<h3 align="center" style="color: #6366f1;">Global Analytics</h3>
+<h3 align="center" style="color: #6366f1;">Analíticas Globales</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=a9b1d6&icon_color=6366f1" width="48%" />
