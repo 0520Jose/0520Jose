@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="./image_41e5e6.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/0520Jose/0520Jose/blob/main/baner.png" width="100%" alt="Banner"/>
 </div>
 
 <br/>
