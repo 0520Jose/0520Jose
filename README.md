@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/0520Jose/0520Jose/blob/main/baner.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/0520Jose/0520Jose/main/baner.png" width="100%" alt="Banner"/>
 </div>
 
 <br/>
@@ -71,6 +71,6 @@
 <h3 align="center" style="color: #6366f1;">Global Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=a9b1d6&icon_color=6366f1" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a9b1d6&icon_color=6366f1&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0520Jose&theme=vision-friendly-dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideLabels=ffffff&v=1" width="48%" />
 </div>
