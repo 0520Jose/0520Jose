@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="45%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0520Jose&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=a9b1d6" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0520Jose&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a9b1d6&v=1" width="100%" />
     </td>
   </tr>
 </table>
@@ -72,5 +72,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=a9b1d6&icon_color=6366f1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0520Jose&theme=vision-friendly-dark&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideLabels=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a9b1d6&icon_color=6366f1&v=1" width="48%" />
 </div>
