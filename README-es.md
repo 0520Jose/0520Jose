@@ -72,7 +72,7 @@ SOBRE MÍ
 <td width="4%"></td>
 <td width="44%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0520Jose&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&v=4" width="100%" alt="Top Lenguajes"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=0520Jose&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&v=4" width="100%" alt="Top Lenguajes"/>
 
 </td>
 </tr>
@@ -176,7 +176,7 @@ SOBRE MÍ
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0520Jose&bg_color=0d0020&color=F5D0FE&line=C084FC&point=E879F9&area=true&area_color=4C1D95&hide_border=true&radius=6&custom_title=Actividad%20de%20Contribuciones%20%E2%80%94%200520Jose" width="100%" alt="Gráfico de Actividad"/>
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=0520Jose&bg_color=0d0020&color=F5D0FE&line=C084FC&point=E879F9&area=true&area_color=4C1D95&hide_border=true&radius=6&custom_title=Actividad%20de%20Contribuciones%20%E2%80%94%200520Jose" width="100%" alt="Gráfico de Actividad"/>
 </div>
 
 <br/>
@@ -194,14 +194,14 @@ SOBRE MÍ
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&icon_color=E879F9&include_all_commits=true&count_private=true&rank_icon=github&v=4" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=0520Jose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&icon_color=E879F9&include_all_commits=true&count_private=true&rank_icon=github&v=4" width="48%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=0520Jose&theme=tokyonight&hide_border=true&background=0d0020&ring=C084FC&fire=E879F9&currStreakNum=ffffff&sideLabels=F5D0FE&currStreakLabel=C084FC&sideNums=ffffff&dates=7C3AED&stroke=C084FC&v=4" width="48%" alt="Racha de Contribuciones"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0520Jose&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trofeos de GitHub"/>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=0520Jose&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trofeos de GitHub"/>
 </div>
 
 <br/>
