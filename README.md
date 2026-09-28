@@ -4,17 +4,16 @@
 
 <!-- ═══════════════════════════════════════════════════════ HEADER ══ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=Emanuel%20Monz%C3%B3n&fontSize=62&fontAlign=50&fontAlignY=52&color=0:0d0020,50:4C1D95,100:C084FC&fontColor=ffffff&stroke=C084FC&strokeWidth=2&animation=fadeIn&desc=Systems%20Engineering%20Student&descAlign=50&descAlignY=72&descSize=18&descColor=F5D0FE">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Emanuel%20Monz%C3%B3n&fontSize=62&fontAlign=50&fontAlignY=52&color=0:f9f0ff,50:ddd6fe,100:C084FC&fontColor=1e0040&stroke=7C3AED&strokeWidth=2&animation=fadeIn&desc=Systems%20Engineering%20Student&descAlign=50&descAlignY=72&descSize=18&descColor=5b21b6" width="100%" alt="Header"/>
-</picture>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Emanuel%20Monz%C3%B3n&fontSize=62&fontAlign=50&fontAlignY=52&color=0:0d0020,50:4C1D95,100:C084FC&fontColor=F5D0FE&animation=fadeIn&desc=Systems%20Engineering%20Student&descAlign=50&descAlignY=72&descSize=18&descColor=E879F9" width="100%" alt="Header"/>
+</div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════ TYPING ANIMATION ══ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=E879F9&center=true&vCenter=true&repeat=true&width=480&lines=Building+systems+that+scale.;Writing+code+that+lasts.;Turning+complexity+into+clarity.;Vue+%7C+React+%7C+Node+%7C+Go+%7C+Postgres+%7C+Redis;Deployed+on+AWS%2C+Netlify+%26+Cloudflare." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=C084FC&background=00000000&center=true&vCenter=true&repeat=true&width=480&lines=Building+systems+that+scale.;Writing+code+that+lasts.;Turning+complexity+into+clarity.;Vue+%7C+React+%7C+Node+%7C+Go+%7C+Postgres+%7C+Redis;Deployed+on+AWS%2C+Netlify+%26+Cloudflare." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -39,7 +38,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9" width="100%"/>
+</div>
 
 <br/>
 
@@ -79,7 +80,9 @@ ABOUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9" width="100%"/>
+</div>
 
 <br/>
 
@@ -160,7 +163,9 @@ ABOUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9" width="100%"/>
+</div>
 
 <br/>
 
@@ -176,7 +181,9 @@ ABOUT
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9" width="100%"/>
+</div>
 
 <br/>
 
@@ -187,19 +194,21 @@ ABOUT
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&icon_color=E879F9&include_all_commits=true&count_private=true&show=prs_merged,discussions_answered&rank_icon=github&v=4" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&icon_color=E879F9&include_all_commits=true&count_private=true&rank_icon=github&v=4" width="48%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=0520Jose&theme=tokyonight&hide_border=true&background=0d0020&ring=C084FC&fire=E879F9&currStreakNum=ffffff&sideLabels=F5D0FE&currStreakLabel=C084FC&sideNums=ffffff&dates=7C3AED&stroke=C084FC&v=4" width="48%" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0520Jose&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0520Jose&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9" width="100%"/>
+</div>
 
 <br/>
 
@@ -221,7 +230,6 @@ ABOUT
 
 <!-- ══════════════════════════════════════════════════════ FOOTER ══ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0020,50:4C1D95,100:C084FC&section=footer&text=Designed%20with%20precision.%20Built%20with%20purpose.&fontSize=13&fontColor=F5D0FE&fontAlignY=70&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:f9f0ff,50:ddd6fe,100:C084FC&section=footer&text=Designed%20with%20precision.%20Built%20with%20purpose.&fontSize=13&fontColor=5b21b6&fontAlignY=70&animation=fadeIn" width="100%" alt="Footer"/>
-</picture>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0020,50:4C1D95,100:C084FC&section=footer&text=Designed%20with%20precision.%20Built%20with%20purpose.&fontSize=13&fontColor=F5D0FE&fontAlignY=70&animation=fadeIn" width="100%" alt="Footer"/>
+</div>
