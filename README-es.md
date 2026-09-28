@@ -1,76 +1,227 @@
 <p align="right">
-  <a href="./README.md">EN</a> | <strong>ES</strong>
+  <a href="./README.md">EN</a> &nbsp;|&nbsp; <strong>ES</strong>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════ HEADER ══ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=Emanuel%20Monz%C3%B3n&fontSize=62&fontAlign=50&fontAlignY=52&color=0:0d0020,50:4C1D95,100:C084FC&fontColor=ffffff&stroke=C084FC&strokeWidth=2&animation=fadeIn&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas&descAlign=50&descAlignY=72&descSize=18&descColor=F5D0FE">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Emanuel%20Monz%C3%B3n&fontSize=62&fontAlign=50&fontAlignY=52&color=0:f9f0ff,50:ddd6fe,100:C084FC&fontColor=1e0040&stroke=7C3AED&strokeWidth=2&animation=fadeIn&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas&descAlign=50&descAlignY=72&descSize=18&descColor=5b21b6" width="100%" alt="Header"/>
+</picture>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ TYPING ANIMATION ══ -->
+
 <div align="center">
-  <img src="https://github.com/0520Jose/0520Jose/blob/main/baner.png" width="100%" alt="Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=E879F9&center=true&vCenter=true&repeat=true&width=480&lines=Construyendo+sistemas+que+escalan.;Escribiendo+código+que+perdura.;Convirtiendo+complejidad+en+claridad.;Vue+%7C+React+%7C+Node+%7C+Go+%7C+Postgres+%7C+Redis;Desplegado+en+AWS%2C+Netlify+%26+Cloudflare." alt="Typing SVG"/>
 </div>
 
 <br/>
 
+<!-- ══════════════════════════════════════════════════════ CONTACT ══ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Hola,+soy+Emanuel+Monzón;Estudiante+de+Ingeniería+en+Sistemas;Arquitecto+Full-Stack;Transformando+ideas+en+código" alt="Typing SVG" />
+  <a href="mailto:emanuelmonzon360@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-emanuelmonzon360-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0020" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/josé-emanuel-monzón-lémus-4970b4237">
+    <img src="https://img.shields.io/badge/LinkedIn-José%20Emanuel%20Monzón-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0020" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://emanuelmonzon.netlify.app">
+    <img src="https://img.shields.io/badge/Portafolio-emanuelmonzon.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0d0020" alt="Portafolio"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Disponible-Abierto%20a%20oportunidades-C084FC?style=flat-square&logo=statuspage&logoColor=white&labelColor=0d0020" alt="Estado"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="mailto:emanuelmonzon360@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/josé-emanuel-monzón-lémus-4970b4237"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://emanuelmonzon.netlify.app"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="40" /></a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-<br/>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none;">
-      <h3 style="color: #6366f1;">Sobre Mí</h3>
-      <ul style="list-style-type: none;">
-        <li>❖ <b>Estudiante de Ingeniería en Sistemas</b> con un fuerte enfoque en arquitecturas web modernas y código limpio.</li>
-        <li>❖ Actualmente dominando <b>UI/UX de alto rendimiento y Backends escalables</b>.</li>
-        <li>❖ <i>"Código limpio, UI hermosa, experiencia fluida."</i></li>
-        <li>❖ Contáctame para <b>colaboraciones, trabajo freelance o proyectos open-source</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0520Jose&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=a9b1d6" width="100%" />
-    </td>
-  </tr>
+<!-- ══════════════════════════════════════════════════════ ABOUT ══ -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="52%" valign="top">
+
+```
+SOBRE MÍ
+─────────────────────────────────────────────
+
+  Estudiante de Ingeniería en Sistemas enfocado
+  en construir arquitecturas escalables e
+  interfaces de usuario de alto rendimiento.
+
+  Actualmente dominando:
+  → Sistemas Distribuidos y Microservicios
+  → Infraestructura cloud-native (AWS, Netlify, Cloudflare)
+  → Frontend moderno a escala (Vue 3, React, Vite)
+  → Persistencia de datos (PostgreSQL, Redis, MongoDB)
+
+  "La arquitectura no es solo código.
+   Es claridad, intención y precisión."
+```
+
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0520Jose&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&v=4" width="100%" alt="Top Lenguajes"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+
 <br/>
 
-<h3 align="center" style="color: #6366f1;">Arsenal Técnico</h3>
+<!-- ══════════════════════════════════════════════════ TECH STACK ══ -->
+
+<h3 align="center">STACK TÉCNICO</h3>
+
+<br/>
 
 <div align="center">
-  <p align="center" style="color: #a9b1d6; font-weight: bold;">Frontend & UI</p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark&perline=7" />
-  
-  <br/><br/>
-  
-  <p align="center" style="color: #a9b1d6; font-weight: bold;">Backend & Bases de Datos</p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,c,cs,go,django,flask,mongodb&theme=dark&perline=9" />
-  
-  <br/><br/>
 
-  <p align="center" style="color: #a9b1d6; font-weight: bold;">Móvil, Cloud & Herramientas</p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,aws,linux,git,github,grafana&theme=dark&perline=7" />
+<table border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td align="center" valign="top" width="33%">
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,vite&theme=dark&perline=4" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Backend & Runtimes**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,go,java&theme=dark&perline=4" />
+<br/>
+<img src="https://skillicons.dev/icons?i=django,flask,cs,c&theme=dark&perline=4" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Datos & Almacenamiento**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=dark&perline=4" />
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+
+**Cloud & Despliegue**
+
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,linux&theme=dark&perline=4" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Herramientas & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,grafana&theme=dark&perline=4" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Móvil & Editor**
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,vscode&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub>
+  También trabajo con &nbsp;
+  <code>vue-i18n</code> &nbsp;·&nbsp;
+  <code>Pinia</code> &nbsp;·&nbsp;
+  <code>Vite PWA</code> &nbsp;·&nbsp;
+  <code>Prisma</code> &nbsp;·&nbsp;
+  <code>REST / GraphQL</code> &nbsp;·&nbsp;
+  <code>Antigravity AGY</code>
+</sub>
+
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+
 <br/>
 
-<h3 align="center" style="color: #6366f1;">Analíticas Globales</h3>
+<!-- ══════════════════════════════════════════════ ACTIVITY GRAPH ══ -->
+
+<h3 align="center">ACTIVIDAD DE CONTRIBUCIONES</h3>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=a9b1d6&icon_color=6366f1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0520Jose&theme=vision-friendly-dark&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideLabels=ffffff" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0520Jose&bg_color=0d0020&color=F5D0FE&line=C084FC&point=E879F9&area=true&area_color=4C1D95&hide_border=true&radius=6&custom_title=Actividad%20de%20Contribuciones%20%E2%80%94%200520Jose" width="100%" alt="Gráfico de Actividad"/>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════ METRICS ══ -->
+
+<h3 align="center">MÉTRICAS DE RENDIMIENTO</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0520Jose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=C084FC&text_color=F5D0FE&icon_color=E879F9&include_all_commits=true&count_private=true&show=prs_merged,discussions_answered&rank_icon=github&v=4" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=0520Jose&theme=tokyonight&hide_border=true&background=0d0020&ring=C084FC&fire=E879F9&currStreakNum=ffffff&sideLabels=F5D0FE&currStreakLabel=C084FC&sideNums=ffffff&dates=7C3AED&stroke=C084FC&v=4" width="48%" alt="Racha de Contribuciones"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0520Jose&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trofeos de GitHub"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,100:E879F9&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════ CONTRIBUTION SNAKE ══ -->
+
+<h3 align="center">SERPIENTE DE CONTRIBUCIONES</h3>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0520Jose/0520Jose/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0520Jose/0520Jose/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/0520Jose/0520Jose/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════ FOOTER ══ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0020,50:4C1D95,100:C084FC&section=footer&text=Diseñado%20con%20precisión.%20Construido%20con%20propósito.&fontSize=13&fontColor=F5D0FE&fontAlignY=70&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:f9f0ff,50:ddd6fe,100:C084FC&section=footer&text=Diseñado%20con%20precisión.%20Construido%20con%20propósito.&fontSize=13&fontColor=5b21b6&fontAlignY=70&animation=fadeIn" width="100%" alt="Footer"/>
+</picture>
